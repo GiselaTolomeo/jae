@@ -1,0 +1,122 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    background-color: rgba(4, 141, 239, 0.998);
+    color: rgb(3, 4, 4);
+    padding: 10px;
+    height: 80px;
+    font-weight: bolder;
+    font-size: 18px;
+}
+.navbar-brand{
+    text-shadow: 0 0 5px;
+}
+.jumbotron{
+    background-image: url(images/stones.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    color: aliceblue;
+    text-shadow: 0 0 5px;
+    letter-spacing: 2px;
+    margin: 0%;
+} 
+h3{
+    background-color: rgba(4, 141, 239, 0.998);
+    height: 80px;
+    color: aliceblue;
+    text-shadow: 0 0 5px;
+    text-align: center;
+    padding: 20px;
+    margin: 0;
+}
+.btn{
+    padding: 10px;
+    margin-top: 20px;
+    border: 3px solid aliceblue;
+    transition: 0.5s;
+    
+}
+.btn:hover{
+    transform: scale(0.9);
+}
+.nright{
+    height: 450px;
+    background-image: url(images/nosotros.jpg);
+    background-size: cover;
+    background-position: center;
+    padding: 40px;
+    margin: 0;
+}
+.nleft{
+    font-size: larger;
+    color:aliceblue;
+    background-color: rgba(0, 0, 0, 0.982);
+    text-align: justify;
+    padding: 40px;
+    margin: 0;
+
+}
+h4{
+    margin: 20px;
+    text-align: center;
+    text-shadow: 0 0 5px;
+}
+.sleft{
+    height: 450px;
+    background-image: url(images/lotus.jpg);
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+}
+.sright{
+    font-size: larger;
+    color:aliceblue;
+    background-color: rgba(0, 0, 0, 0.982);
+    text-align: justify;
+    padding: 40px;
+    margin: 0;
+}
+.container-fluid{
+    padding: 0;
+}
+.contacto{
+    padding: 2px;
+    font-weight: bold;
+    font-size: large;
+    text-align: center;
+    color: aliceblue;
+}
+.contact{
+    background-color: black;
+    height: 450px;
+    padding: 30px;
+}
+footer{
+    background-color: black;
+    padding: 10px;
+    font-weight: bold;
+    font-size: small;
+    text-align: center;
+    color: aliceblue;
+    letter-spacing: 5px;
+}
+.fa-brands{
+    font-size: x-large;
+    padding: 10px;
+    margin: 10px;
+    text-shadow: 0 0 5px;
+    
+}
+i:hover{
+    color: dodgerblue;
+}
+.redes{
+    transition: 0.5s;
+}
+.redes:hover{
+    transform: scale(0.9);
+}
